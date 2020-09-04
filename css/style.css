@@ -1,0 +1,16 @@
+body {
+   color: black; 
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    text-align: center;
+}
+.book{
+    font-family: 'Times New Roman', Times, serif;
+    text-align-last: left ;
+ }  
+.python{
+    text-align: left ;
+}
+.star{
+    color:rgb(3, 63, 63);
+}
